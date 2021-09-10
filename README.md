@@ -1,4 +1,7 @@
 # PDF Thumbnails
+I was looking for this functionality for some time, tried to do it on my own, but couldn't. this script saved me. Did some minor modification for my needs.
+
+also includes a function which allows you to call it on particular elements at specific event(currently on for onload).
 
 A small script to parse html files and generate a source image  for `img` elements 
 with a `data-pdf-thumbnail-file` attribute linking to a pdf file.  
